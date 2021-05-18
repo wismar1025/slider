@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    min-height: 100vh;
+   
+}
+#contenedor{
+margin: auto;
+overflow: hidden;
+position: relative;
+width: 85%;
+max-width:900px;
+box-shadow: 0 0 0 5px #fff, 0 10px 50px;
+} 
+#con2{
+    display: flex;
+    width: 400%;
+}
+#con2 img{
+    display: block;
+    height: 100%;
+    width: 100%;
+    
+}
+section{
+    width: 100%;
+}
+button{
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 22px;
+}
+#te{
+    
+    position: relative;
+    left: 200px;
+}
